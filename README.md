@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on supply chain optimisation
+
 🌱 I’m currently learning reinforcement learning (RL)
 
 📫 How to reach me: d.cristiu@imperial.ac.uk
