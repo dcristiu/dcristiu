@@ -1,4 +1,4 @@
-## Hi there 
+## Servus
 
 I’m currently working on supply chain optimisation
 
